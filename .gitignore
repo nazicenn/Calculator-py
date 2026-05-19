@@ -1,0 +1,75 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+venv/
+.env/
+.venv/
+
+# Distribution / Packaging
+
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+
+*.spec
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# Tkinter Cache
+
+*.tcl
+
+# Coverage / Testing
+
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Environment Variables
+
+.env
+
+# mypy
+
+.mypy_cache/
+
+# Ruff
+
+.ruff_cache/
+
+# User Settings
+
+settings.json
+
+# Executables
+
+*.exe
+
+# Screenshots / Generated Images
+
+screenshots/
+exports/
