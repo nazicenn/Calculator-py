@@ -2,15 +2,12 @@
 
 <div align="center">
 
-### Windows 11 Inspired • Themeable • Overflow-Safe • Professional Calculator
-
 ![Platform](https://img.shields.io/badge/Platform-Windows%2011-0078D6?style=for-the-badge\&logo=windows11\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-FF6B6B?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 
 Modern and elegant calculator application built with Python and Tkinter.
-Inspired by the Windows 11 calculator experience with customizable themes, keyboard shortcuts, and smart overflow handling.
 
 </div>
 
