@@ -1,4 +1,3 @@
-<img width="652" height="852" alt="Ekran görüntüsü 2026-05-19 220021" src="https://github.com/user-attachments/assets/10b17c35-80b9-49ba-9956-efa470f18978" />
 #  Modern Calculator
 
 <div align="center">
@@ -186,8 +185,6 @@ but fully built from scratch with original code.
 rd support, and smart overflow handling.
 [README.md](https://github.com/user-attachments/files/27981390/README.md)
 
-<img width="652" height="852" alt="Ekran görüntüsü 2026-05-19 220027" src="https://github.com/user-attachments/assets/828188e8-8520-4c76-b362-efafd1c407f9" />
-
-<img width="652" height="852" alt="Ekran görüntüsü 2026-05-19 220021" src="https://github.com/user-attachments/assets/857db665-d71e-46fb-9e6d-d59f91564ddb" />
+<img width="300" height="500" alt="Ekran görüntüsü 2026-05-19 220027" src="https://github.com/user-attachments/assets/828188e8-8520-4c76-b362-efafd1c407f9" /> <img width="300" height="500" alt="Ekran görüntüsü 2026-05-19 220021" src="https://github.com/user-attachments/assets/857db665-d71e-46fb-9e6d-d59f91564ddb" />
 
 
