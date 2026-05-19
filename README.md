@@ -185,6 +185,9 @@ but fully built from scratch with original code.
 rd support, and smart overflow handling.
 [README.md](https://github.com/user-attachments/files/27981390/README.md)
 
-<img width="300" height="500" alt="Ekran görüntüsü 2026-05-19 220027" src="https://github.com/user-attachments/assets/828188e8-8520-4c76-b362-efafd1c407f9" /> <img width="300" height="500" alt="Ekran görüntüsü 2026-05-19 220021" src="https://github.com/user-attachments/assets/857db665-d71e-46fb-9e6d-d59f91564ddb" />
+---
+
+<img width="300" height="500" alt="Ekran görüntüsü 2026-05-19 220027" src="https://github.com/user-attachments/assets/828188e8-8520-4c76-b362-efafd1c407f9" /> <img width="300" height="500" alt="Ekran görüntüsü 2026-05-19 220021" src="https://github.com/user-attachments/assets/857db665-d71e-46fb-9e6d-d59f91564ddb" /> <img width="300" height="500" alt="Ekran görüntüsü 2026-05-19 220320" src="https://github.com/user-attachments/assets/843924d5-c95f-4a1b-b7f3-8049d2054d15" />
+
 
 
